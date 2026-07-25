@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SpringBoot/src/main/java"/>
+	<classpathentry kind="src" path="SpringBoot/src/test/java"/>
+	<classpathentry kind="lib" path="__MACOSX/SpringBoot/target/._SpringBasic-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="__MACOSX/SpringBoot/target/surefire/._surefirebooter8567216175985410787.jar"/>
+	<classpathentry kind="lib" path="SpringBoot/target/SpringBasic-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="SpringBoot/target/surefire/surefirebooter8567216175985410787.jar"/>
+	<classpathentry kind="output" path="SpringBoot/target/classes"/>
+</classpath>
